@@ -35,14 +35,6 @@ Welcome to my GitHub profile! I'm a result-driven **Full Stack Developer** and a
 
 ---
 
-## 📚 My Journey
-
-I’ve completed multiple Python projects and leveraged free resources like YouTube to stay updated with modern development trends. Recently, I launched an AI Image Manipulation Tool and a personal portfolio site:
-
-- **[AI Image Manipulation Tool](https://sceloimage.vercel.app):** Features include AI image upscale, enhancement, generative fill, replace, and background removal.
-- **[Personal Portfolio](https://talhashahidkhan.vercel.app):** Built with Next.js to showcase my skills and projects.
-
----
 
 ## 🌟 Projects
 
