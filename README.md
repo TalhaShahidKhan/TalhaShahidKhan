@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a result-driven **Full Stack Developer** and a
 - **Portfolio Website:** [talhashahidkhan.vercel.app](https://talhashahidkhan.vercel.app)
 - **LinkedIn:** [linkedin.com/in/talha-shahid-khan](https://www.linkedin.com/in/talha-shahid-khan)
 - **X (Twitter):** [x.com/TSKhan_5429](https://x.com/TSKhan_5429)
-- **Facebook:** [facebook.com/Talha](https://www.facebook.com/Talha)
+- **Facebook:** [facebook.com/Talha](https://www.facebook.com/talhashahidkhan49/)
 
 ---
 
