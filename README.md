@@ -45,10 +45,10 @@ My workflow is rooted in **first principles**, **clean architecture**, and **bus
 
 ### ⚡ Let's Connect
 <p align="center">
-  <a href="https://talhashahidkhan.vercel.app" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/talhashahidkhan" target="_blank">💼 LinkedIn</a> • 
-  <a href="https://twitter.com/TalhaShahidDev" target="_blank">🐦 Twitter</a> • 
-  <a href="https://github.com/TalhaShahidKhan" target="_blank">💻 GitHub</a>
+  <a href="https://talhashahidkhan.vercel.app" target="_blank"> Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/talha-shahid-khan" target="_blank"> LinkedIn</a> • 
+  <a href="https://x.com/TSKhan_5429 target="_blank"> X </a> 
+  <a href="https://github.com/TalhaShahidKhan" target="_blank"> GitHub</a>
 </p>
 
 ---
