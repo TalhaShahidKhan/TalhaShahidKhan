@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TalhaShahidKhan/TalhaShahidKhan/main/assets/brand-wave-light.png" alt="brand" width="720"/>
-</p>
 
 <h1 align="center">Talha Shahid Khan <br/><sub>Result-Driven Full-Stack • API Specialist • Solo-SaaS Builder</sub></h1>
 
