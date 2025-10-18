@@ -1,51 +1,62 @@
-# Hi there! 👋 I'm Talha Shahid Khan
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TalhaShahidKhan/TalhaShahidKhan/main/assets/brand-wave-light.png" alt="brand" width="720"/>
+</p>
 
-Welcome to my GitHub profile! I'm a result-driven **Full Stack Developer** and an aspiring entrepreneur passionate about building secure, scalable, and impactful web solutions. With 3 years of self-taught experience in Web Development and SaaS Development, I specialize in backend development and API design.
+<h1 align="center">Talha Shahid Khan <br/><sub>Result-Driven Full-Stack • API Specialist • Solo-SaaS Builder</sub></h1>
 
----
-
-## 🚀 About Me
-
-- **Backend Expertise:** Python, Django, Django Rest Framework
-- **Frontend Skills:** React, NextJS, JavaScript, Tailwind CSS
-- **SaaS Development:** Focused on creating scalable and user-centric solutions
-- **Python-Based Frameworks:** Familiar with Reflex, Flet, ReactPy, and PyScript
-- **Tech Enthusiast:** Passionate about SaaS, E-commerce, and Tech Entrepreneurship
-
----
-
-## 🌟 What I Offer
-
-### Web Development
-- Backend development with Python and Django
-- Scalable API design and integration
-
-### SaaS Development
-- Building SaaS applications for cross-platform use
+<p align="center">
+  <a href="https://talhashahidkhan.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/TalhaShahidKhan">GitHub</a> ·
+  <a href="https://linkedin.com/in/talhashahidkhan">LinkedIn</a> ·
+  <a href="https://twitter.com/TalhaShahidDev">X</a>
+</p>
 
 ---
 
-## 🛠️ Skills
-
-- **Programming Languages:** Python, JavaScript
-- **Frameworks & Tools:** Django, Next.js, Tailwind CSS
-- **Databases:** PostgreSQL, SQLite, MySQL
-- **Cloud Services:** AWS (S3, EC2), Firebase
-- **Other Tools:** HTML, CSS, Git, Vercel
-
+### ✨ Snapshot
+> I ship backend logic that scales and frontends that users actually enjoy.  
+Think: **clean APIs**, **scalable services**, **pixel-polished UIs**, built on first principles and business outcomes.
 
 ---
 
-## 🔗 Let's Connect
-
-- **Portfolio Website:** [talhashahidkhan.vercel.app](https://talhashahidkhan.vercel.app)
-- **LinkedIn:** [linkedin.com/in/talha-shahid-khan](https://www.linkedin.com/in/talha-shahid-khan)
-- **X (Twitter):** [x.com/TSKhan_5429](https://x.com/TSKhan_5429)
-- **Facebook:** [facebook.com/Talha](https://www.facebook.com/talhashahidkhan49/)
+### 🛠 Tech stack (fast read)
+**Frontend:** Next.js · React · TypeScript · Tailwind  
+**Backend:** Django · DRF · FastAPI · PostgreSQL  
+**Infra / Tools:** Docker · GitHub Actions · n8n · Paddle · Clerk/Auth.js  
+**AI / Automation:** GPT, Claude, n8n workflows
 
 ---
 
-## 👨‍💻 Open to Work
-I’m actively seeking collaboration, internships, or backend development roles. Let’s bring innovative tech solutions to life together!
+### 🚧 What I build
+- **Solo-SaaS templates** (scalable subscription flows)  
+- **APIs for scale** — clean contracts, secure auth, idempotent webhooks  
+- **Automation stacks** — reduce human ops with n8n + AI agents
 
-Feel free to explore my repositories and reach out for collaboration. 😊
+---
+
+### 🧭 How I think (short)
+- First principles > cargo-culting  
+- Start with business outcome → design simple, test fast → iterate  
+- Balance velocity with a security-first backend mindset
+
+---
+
+### 🎯 Quick wins — pinned
+- [Portfolio (live)](https://talhashahidkhan.vercel.app) — practical UI + case studies  
+- [Example SaaS template](/TalhaShahidKhan/saas-template) — DRF + Paddle integration (sandbox)  
+- [API Toolbox](/TalhaShahidKhan/api-toolbox) — reusable endpoints + auth patterns
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalhaShahidKhan&show_icons=true&theme=dark&count_private=true" alt="stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaShahidKhan&layout=compact&theme=dark" alt="languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Let’s build SaaS that customers pay for, systems that run themselves, and UIs that feel like home.</i>  
+  <br/>DM on <a href="https://twitter.com/TalhaShahidDev">X</a> · Collab / freelance / mentorship inquiries welcome.
+</p>
